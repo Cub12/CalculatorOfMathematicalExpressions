@@ -16,8 +16,6 @@ You can use parentheses to change the priority of operations.
 You can put unary minus in front of variables: "-a" "a = 1"
   Such inputs will also be valid: "a + (-b)" "a = 3" "b=4" or a+-b a=3 b=4
   
-List of supported functions:
-  +, - , *, /, ^, sin, cos, tan, asin, acos, atan, sinh, cosh, tanh, cbrt, exp, expm1, log, log10, log1p, sqrt, abs, log2
 Functions should be entered as follows:
   "tan(1)" or "tan (1)" - the name of the function, then the argument in parentheses with possible spaces after the name.
 You can call variables by function names: tan(tan) tan=1
