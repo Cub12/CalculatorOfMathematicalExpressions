@@ -2,7 +2,8 @@ import java.text.DecimalFormat;
 import java.util.HashMap;
 
 /**
- * Calculator of mathematical expressions. Supported operators: -, +, /, *, ^, ()
+ * Calculator of mathematical expressions. Supported operators: -, +, /, *, ^, sin, cos, tan, asin, acos, atan, 
+ * sinh, cosh, tanh, cbrt, exp, expm1, log, log10, log1p, sqrt, abs, log2
  */
 public class CalcOfMathExpr extends Constants {
 
